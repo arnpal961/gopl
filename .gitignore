@@ -2,3 +2,5 @@ main
 */*.json
 */main
 */*/main
+bin/*
+
